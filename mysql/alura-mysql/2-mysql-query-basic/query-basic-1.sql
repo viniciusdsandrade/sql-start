@@ -12,7 +12,6 @@ DROP DATABASE IF EXISTS db_query_basic_1;
 CREATE DATABASE IF NOT EXISTS db_query_basic_1;
 USE db_query_basic_1;
 
-
 CREATE TABLE IF NOT EXISTS pessoa_fisica
 (
     id              BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
