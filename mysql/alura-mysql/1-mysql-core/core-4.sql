@@ -34,34 +34,21 @@ CREATE TABLE IF NOT EXISTS products_categories
     FOREIGN KEY (category_id) REFERENCES categories (id)
 );
 
-INSERT INTO products (name, price)
-VALUES ('TV', 1000.00);
-INSERT INTO products (name, price)
-VALUES ('Mouse', 100.00);
-INSERT INTO products (name, price)
-VALUES ('Monitor', 500.00);
-INSERT INTO products (name, price)
-VALUES ('Tablet', 1000.00);
-INSERT INTO products (name, price)
-VALUES ('HD Case', 80.00);
+INSERT INTO products (name, price) VALUES ('TV', 1000.00);
+INSERT INTO products (name, price) VALUES ('Mouse', 100.00);
+INSERT INTO products (name, price) VALUES ('Monitor', 500.00);
+INSERT INTO products (name, price) VALUES ('Tablet', 1000.00);
+INSERT INTO products (name, price) VALUES ('HD Case', 80.00);
 
-INSERT INTO categories (name)
-VALUES ('Electronics');
-INSERT INTO categories (name)
-VALUES ('Computer');
+INSERT INTO categories (name) VALUES ('Electronics');
+INSERT INTO categories (name) VALUES ('Computer');
 
-INSERT INTO products_categories (product_id, category_id)
-VALUES (1, 1);
-INSERT INTO products_categories (product_id, category_id)
-VALUES (1, 2);
-INSERT INTO products_categories (product_id, category_id)
-VALUES (2, 2);
-INSERT INTO products_categories (product_id, category_id)
-VALUES (3, 1);
-INSERT INTO products_categories (product_id, category_id)
-VALUES (4, 1);
-INSERT INTO products_categories (product_id, category_id)
-VALUES (5, 2);
+INSERT INTO products_categories (product_id, category_id) VALUES (1, 1);
+INSERT INTO products_categories (product_id, category_id) VALUES (1, 2);
+INSERT INTO products_categories (product_id, category_id) VALUES (2, 2);
+INSERT INTO products_categories (product_id, category_id) VALUES (3, 1);
+INSERT INTO products_categories (product_id, category_id) VALUES (4, 1);
+INSERT INTO products_categories (product_id, category_id) VALUES (5, 2);
 
 
 SELECT * FROM products;
