@@ -1,9 +1,11 @@
 /*
-    1 -
-    2 -
-    3 -
-    4 -
-    5 -
+    1 - Crie um banco de dados chamado db_query_basic_1
+    2 - Selecionar todos os dados da tabela pessoa_fisica
+    3 - Selecionar todos os dados da tabela pessoa_juridica
+    4 - Selecionar todos os dados da tabela pessoa_fisica onde a idade seja maior que 30 anos
+    5 - Selecionar todos os dados da tabela cliente onde a idade esteja entre 18 e 40 anos
+    6 - Selecionar todos os dados da tabela cliente onde a localidade seja São Paulo
+    7 - Selecionar todos os dados da tabela cliente onde a localidade seja São Paulo e a idade esteja entre 18 e 40 anos
 */
 
 DROP DATABASE IF EXISTS db_query_basic_1;
