@@ -1403,3 +1403,7 @@ w
 G.idea/sonarlint/issuestore/5/8/58ac8fcfec07700de6385016da84e3a945531d6b,6\9\698197b7269b7e30b1c5a1b580ef04b7beffb4db
 \
 ,mysql/fatec-mysql/db_commerce/e_commerce.sql,c\1\c14d9de3a9a51fdb2b419715bb1abcf7786a2121
+d
+4sqlserver/sucos_vendas/db_sucos_vendas_consultas.sql,f\6\f64f0381eaa9145081b425c0dd8eef7614d63258
+o
+?sqlserver/sucos_vendas/db_sucos_vendas_consultas_avançadas.sql,a\1\a1d0fdd8d61b9dbb6c454fc2e1803b6a7ebd93df

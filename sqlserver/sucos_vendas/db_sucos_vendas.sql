@@ -261,3 +261,5 @@ WHERE [CODIGO DE PRODUTO] = '229900';
 -- Deleta um produto específico com base no código de produto.
 DELETE FROM [TABELA DE PRODUTOS]
 WHERE [CODIGO DE PRODUTO] = '1022450';
+
+SELECT * FROM [TABELA DE PRODUTOS] WHERE SABOR IN ('Manga', 'Laranja', 'Melancia');
