@@ -262,4 +262,5 @@ WHERE [CODIGO DE PRODUTO] = '229900';
 DELETE FROM [TABELA DE PRODUTOS]
 WHERE [CODIGO DE PRODUTO] = '1022450';
 
+-- Seleciona todos os registros da tabela de produtos onde o sabor seja igual a 'Manga', 'Laranja' ou 'Melancia'.
 SELECT * FROM [TABELA DE PRODUTOS] WHERE SABOR IN ('Manga', 'Laranja', 'Melancia');

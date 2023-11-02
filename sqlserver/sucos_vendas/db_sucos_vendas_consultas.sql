@@ -7,7 +7,7 @@ SELECT * FROM [TABELA DE CLIENTE] WHERE ESTADO IN ('RJ', 'SP');         -- Usar 
 SELECT * FROM [TABELA DE CLIENTE] WHERE ESTADO IN ('RJ', 'SP') AND IDADE >= 20 AND IDADE <= 28; -- Selecionar clientes nos estados RJ ou SP com idade entre 20 e 28
 SELECT * FROM [TABELA DE CLIENTE] WHERE ESTADO IN ('RJ', 'SP') AND IDADE BETWEEN 20 AND 28;     -- Usar BETWEEN para a mesma seleção de idade
 
--- LIKE '%TESTE' Começa com qualuqer texto e termina com a palavra TESTE
+-- LIKE '%TESTE' Começa com qualquer texto e termina com a palavra TESTE
 -- LIKE 'TESTE%' Começa com a texto TESTE e termina com qualquer texto
 -- LIKE '%TESTE%' Começa com qualquer texto, tem a palavra TESTE no meio e termina com qualquer texto
 SELECT * FROM [TABELA DE PRODUTOS] WHERE SABOR LIKE '%limão'; -- Usar LIKE para selecionar produtos com sabores que terminam com "limão"
