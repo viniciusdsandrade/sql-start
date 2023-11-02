@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sql-start.iml" filepath="$PROJECT_DIR$/.idea/sql-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sucos_vendas.iml" filepath="$PROJECT_DIR$/.idea/sucos_vendas.iml" />
     </modules>
   </component>
 </project>
