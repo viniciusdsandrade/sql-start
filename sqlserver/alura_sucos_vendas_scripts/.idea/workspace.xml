@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="293dd181-9f01-4b88-978f-a06b73536369" name="Changes" comment="feat[sqlserver] consultas avançadas com joins, views e funções">
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_funcoes_datas.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_funcoes_numericas.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_funcoes_texto.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_subconsultas.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_union.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_views_1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_views_2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/sucos_vendas_scripts/Carga_Cadastros.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/sucos_vendas_scripts/Carga_Itens_Notas.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/sucos_vendas_scripts/Carga_Notas.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/sucos_vendas_scripts/Cria_Banco.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sucos_vendas/sucos_vendas_scripts/VIEW_SUCOS_FRUTAS.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alura_sucos_vendas_scripts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/5572f7877e7a1a0a168c65899f79ce2db0ad3a1b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5addbfa01b2cce42154022e7d63633d3c598264d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/5/5572f7877e7a1a0a168c65899f79ce2db0ad3a1b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/a/5addbfa01b2cce42154022e7d63633d3c598264d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carga_Cadastros.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carga_Itens_Notas.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carga_Notas.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cria_Banco.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VIEW_SUCOS_FRUTAS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_views.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_funcoes_conversao.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Vinicius &lt;vinicius_andrade2010@hotmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Xd4nbZNwFLMBWEjA7ixTLcsmtj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/vinic/OneDrive/Área de Trabalho/SQLStudy/sql-start/sqlserver/sucos_vendas",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "TSQL",
+      "Redshift"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vinic\OneDrive\Área de Trabalho\SQLStudy\sql-start\sqlserver\sucos_vendas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="feat[sqlserver] consultas avançadas com joins, views e funções" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat[sqlserver] consultas avançadas com joins, views e funções" />
+  </component>
+</project>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/Cria_Banco.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_funcoes_conversao.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_funcoes_datas.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_funcoes_numericas.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_funcoes_texto.sql" dialect="TSQL" />
     <file url="file://$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_left_join.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_subconsultas.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../sucos_vendas/db_sucos_vendas_views_2.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../sucos_vendas/function_calcula_idade.sql" dialect="TSQL" />
   </component>
 </project>

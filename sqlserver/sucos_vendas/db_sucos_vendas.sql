@@ -193,7 +193,7 @@ ORDER BY [NOME];
 -- Selecionar valores distintos do campo "SABOR" da tabela de produtos
 SELECT DISTINCT [SABOR] FROM [TABELA DE PRODUTOS];
 
--- Excluir todos os registros da tabela de produtos
+-- Excluir TODOS os registros da tabela de produtos
 DELETE FROM [TABELA DE PRODUTOS];
 
 -- Selecionar os campos "NOME" e "ESTADO" da tabela de clientes onde "PRIMEIRA COMPRA" é igual a 1 e ordenar pelo "NOME"
