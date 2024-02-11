@@ -67,7 +67,6 @@ CREATE TABLE IF NOT EXISTS tb_log_delete
     PRIMARY KEY (id)
 );
 
-
 INSERT INTO tb_aluno (primeiro_nome, ultimo_nome, data_nascimento)
 VALUES ('Fulano', 'Silva', '1991-01-01'),
        ('Ciclano', 'Silva', '1992-01-01'),
@@ -347,7 +346,9 @@ DROP TRIGGER IF EXISTS tb_categoria_delete_trigger ON tb_categoria;
 DROP TRIGGER IF EXISTS tb_curso_insert_trigger ON tb_curso;
 DROP TRIGGER IF EXISTS tb_curso_update_trigger ON tb_curso;
 DROP TRIGGER IF EXISTS tb_curso_delete_trigger ON tb_curso;
-
+DROP TRIGGER IF EXISTS tb_aluno_curso_insert_trigger ON tb_aluno_curso;
+DROP TRIGGER IF EXISTS tb_aluno_curso_update_trigger ON tb_aluno_curso;
+DROP TRIGGER IF EXISTS tb_aluno_curso_delete_trigger ON tb_aluno_curso;
 
 -- Trigger para INSERT
 CREATE OR REPLACE FUNCTION log_insert_tb_aluno() RETURNS TRIGGER AS
