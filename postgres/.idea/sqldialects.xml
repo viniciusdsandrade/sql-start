@@ -3,6 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/_1_sintaxe-basica/_1_criando_bd.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/_1_sintaxe-basica/_5_filtrando_consultas_agrupadas.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/_4_functions/_4_PLpgSQL.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/eat_eating/db_eat_eating_api.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>

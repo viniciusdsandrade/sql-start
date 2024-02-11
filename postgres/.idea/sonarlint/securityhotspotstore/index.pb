@@ -5,8 +5,6 @@ f
 ._1_sintaxe-basica/_6_aluno_curso_categoria.sql,6\0\6044c84866cb0f3c56f4a4fa0d52e2c770d26934
 P
  eat_eating/db_eat_eating_api.sql,f\9\f9c56be905166ffeb3bbfd8a0605108496ee365c
-T
-$_1_sintaxe-basica/_6_operador_in.sql,c\4\c4265545ffbaf6df4b5fe1807a5f4318dcb69d56
 Z
 *_1_sintaxe-basica/_8_funcao_de_strings.sql,9\6\96fc624ab4857e11d4af44bb53d797a7c2c523ea
 W
@@ -15,14 +13,10 @@ W
 +_1_sintaxe-basica/_10_funcao_matematica.sql,a\1\a12353c5dad2e6d12b30e9ec6de5d88cfc140fb0
 ]
 -_1_sintaxe-basica/_11_funcao_de_conversao.sql,3\1\3162db4c6ee752c37395abb79586183665fa9491
-<
-_2_views.sql,9\2\92b6f6e71e8e9816450994549093120fb461787e
 E
 _2_views/_1_views.sql,5\5\55a6fd839020947421d617f15eafc60ea4a8d28b
 T
 $_1_sintaxe-basica/_7_operador_in.sql,e\3\e35636525392dde47440bfbd1186f5959893b06a
-R
-"_3_transaciont_rollback_commit.sql,f\5\f50d2cd3577035530e5c5debde142c172fee7b20
 ^
 ._3_transaciont_rollback_commit/_1_rollback.sql,9\8\9876a58a203de6e60ad7d7b341e48e923ef1ab6f
 M
@@ -75,3 +69,9 @@ G.idea/sonarlint/issuestore/a/1/a12353c5dad2e6d12b30e9ec6de5d88cfc140fb0,c\c\cc
 Q.idea/sonarlint/securityhotspotstore/a/1/a12353c5dad2e6d12b30e9ec6de5d88cfc140fb0,6\5\653fbd1322d1c6985cbf6e79454bb4d4c0fd5633
 w
 G.idea/sonarlint/issuestore/3/1/3162db4c6ee752c37395abb79586183665fa9491,9\9\99aed4bd6263229e3f0b039db16f78071678fcb2
+G
+_4_functions/_2_out.sql,a\4\a41fbc26ca45127bf86ae1240cb647cb19f14ea9
+O
+_4_functions/_3_create_type.sql,7\a\7a07d31682f96d84ba00ae7f957e83fbfdf1e1d9
+K
+_4_functions/_4_PLpgSQL.sql,9\3\93acfe24d52fce5a7af254b02ad454bf1b5e1fb7
