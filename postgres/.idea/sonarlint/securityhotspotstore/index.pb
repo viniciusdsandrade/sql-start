@@ -79,3 +79,9 @@ V
 &_5_triggers/_1_triggers_procedures.sql,2\d\2d04ef287ad2cf608872311f9dc74b8b3ccc93ba
 N
 _4_functions/_5_praticando.sql,6\5\6515c532d41508848b098a8fd3fbf4d659c9a9e6
+_
+/_1_stored_procedures_functions_and_triggers.sql,1\d\1dc2993b01613413811e01724a5265352e64975a
+Å
+Q.idea/sonarlint/securityhotspotstore/1/d/1dc2993b01613413811e01724a5265352e64975a,a\4\a4c82e72c3bd652bf85acbfc0b2b900ad26216ad
+w
+G.idea/sonarlint/issuestore/1/d/1dc2993b01613413811e01724a5265352e64975a,9\3\9335194b080f24017c80a0b0d1ddb088119baddd
