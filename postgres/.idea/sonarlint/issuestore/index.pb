@@ -75,3 +75,7 @@ O
 _4_functions/_3_create_type.sql,7\a\7a07d31682f96d84ba00ae7f957e83fbfdf1e1d9
 K
 _4_functions/_4_PLpgSQL.sql,9\3\93acfe24d52fce5a7af254b02ad454bf1b5e1fb7
+V
+&_5_triggers/_1_triggers_procedures.sql,2\d\2d04ef287ad2cf608872311f9dc74b8b3ccc93ba
+N
+_4_functions/_5_praticando.sql,6\5\6515c532d41508848b098a8fd3fbf4d659c9a9e6
