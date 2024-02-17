@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="C:\Users\vinic\OneDrive\Área de Trabalho\sql-start\sql-start\mysql\alura-mysql\5-mysql-trigger\database-aula\Notas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\vinic\OneDrive\Área de Trabalho\sql-start\sql-start\mysql\alura-mysql\5-mysql-trigger\database-aula\Vendedores.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

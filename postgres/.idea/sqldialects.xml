@@ -2,6 +2,8 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/../../../challange-library/challange.library.api/db_library_api.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/trigger-1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/trigger-2.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../mysql/alura-mysql/8-mysql-praticando/_1_stored_procedures_functions_and_triggers.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_locadora_veiculos/db_locadora.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_locadora_veiculos/locadora.sql" dialect="MySQL" />
