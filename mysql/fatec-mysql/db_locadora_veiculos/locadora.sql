@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Estrutura da tabela `acessorio_automovel`
 --
-#DROP DATABASE IF EXISTS locadora2;
+DROP DATABASE IF EXISTS locadora2;
 CREATE DATABASE IF NOT EXISTS locadora2;
 USE locadora2;
 
