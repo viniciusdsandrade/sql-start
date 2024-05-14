@@ -27,25 +27,26 @@ WHERE SABOR = 'Manga';
 -- 'PRODUTO NA MÉDIA' se estiver entre 7 e 11.99, e
 -- 'PRODUTO BARATO' se for inferior a 7.
 --  Os resultados são ordenados pelo preço de lista.
-SELECT [NOME DO PRODUTO], [PRECO DE LISTA],
-	(CASE
-		WHEN [PRECO DE LISTA] >= 12 THEN 'PRODUTO CARO'
-		WHEN [PRECO DE LISTA] >= 7 AND [PRECO DE LISTA] < 12 THEN 'PRODUTO NA MEDIA'
-		ELSE 'PRODUTO BARATO'
-	END) AS 'Classificação'
+SELECT [NOME DO PRODUTO],
+       [PRECO DE LISTA],
+       (CASE
+            WHEN [PRECO DE LISTA] >= 12 THEN 'PRODUTO CARO'
+            WHEN [PRECO DE LISTA] >= 7 AND [PRECO DE LISTA] < 12 THEN 'PRODUTO NA MEDIA'
+            ELSE 'PRODUTO BARATO'
+           END) AS 'Classificação'
 FROM [TABELA DE PRODUTOS]
 ORDER BY [PRECO DE LISTA];
 
 -- Esta consulta calcula a classificação e conta o número de produtos com base na faixa de preço (CARO, NA MEDIA ou BARATO) na tabela de produtos.
-SELECT
-	(CASE
-		WHEN [PRECO DE LISTA] >= 12 THEN 'PRODUTO CARO'
-		WHEN [PRECO DE LISTA] >= 7 AND [PRECO DE LISTA] < 12 THEN 'PRODUTO NA MEDIA'
-		ELSE 'PRODUTO BARATO'
-	END) AS 'Classificação', COUNT(*) AS 'Numero de produtos'
+SELECT (CASE
+            WHEN [PRECO DE LISTA] >= 12 THEN 'PRODUTO CARO'
+            WHEN [PRECO DE LISTA] >= 7 AND [PRECO DE LISTA] < 12 THEN 'PRODUTO NA MEDIA'
+            ELSE 'PRODUTO BARATO'
+    END)        AS 'Classificação',
+       COUNT(*) AS 'Numero de produtos'
 FROM [TABELA DE PRODUTOS]
 GROUP BY (CASE
-		WHEN [PRECO DE LISTA] >= 12 THEN 'PRODUTO CARO'
-		WHEN [PRECO DE LISTA] >= 7 AND [PRECO DE LISTA] < 12 THEN 'PRODUTO NA MEDIA'
-		ELSE 'PRODUTO BARATO'
-	END);
+              WHEN [PRECO DE LISTA] >= 12 THEN 'PRODUTO CARO'
+              WHEN [PRECO DE LISTA] >= 7 AND [PRECO DE LISTA] < 12 THEN 'PRODUTO NA MEDIA'
+              ELSE 'PRODUTO BARATO'
+    END);
