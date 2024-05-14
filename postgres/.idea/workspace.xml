@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="378bb019-7c84-46b0-8a21-d97ab78c8fd1" name="Changes" comment="MySQL - Cursores">
+      <change afterPath="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/database-aula.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9/storage_v2/_src_/schema/sucos_vendas.MaUbXg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9/storage_v2/_src_/schema/sucos_vendas.MaUbXg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/postgres.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04cdf0458c66a667bf3f3d36bd4a8029c4301c89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37c323685094882a507c5d6ca8a675e81dd4cf56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1c6de8d012788f1276e1651bb5531f21abc454d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a92200c2deb89b3e362f05b7107cfd0d58242ae0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aaa5364eda77e0a3548da5d9e57cd6e4d2b3d938" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b187c26bcfef6d86b1db8142a9fb5405f30add87" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b68cd7e29a4e2cb50ee0b7c9d17f1497c4aea79a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff5f11b05727703d4e9e88767742f82d23ea02a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/4/04cdf0458c66a667bf3f3d36bd4a8029c4301c89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/7/37c323685094882a507c5d6ca8a675e81dd4cf56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/1/a1c6de8d012788f1276e1651bb5531f21abc454d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/9/a92200c2deb89b3e362f05b7107cfd0d58242ae0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/a/aaa5364eda77e0a3548da5d9e57cd6e4d2b3d938" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/1/b187c26bcfef6d86b1db8142a9fb5405f30add87" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/6/b68cd7e29a4e2cb50ee0b7c9d17f1497c4aea79a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/f/ff5f11b05727703d4e9e88767742f82d23ea02a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/trigger-1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/trigger-1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/trigger-2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/trigger-2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2c8Vc5XVrOy7Sl6m7068MMGF5Wu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Database Script.Carga_Itens_Notas_01.sql.executor": "Run",
+    "Database Script.Carga_Itens_Notas_02.sql.executor": "Run",
+    "Database Script.Carga_Itens_Notas_03.sql.executor": "Run",
+    "Database Script.Carga_Itens_Notas_04.sql.executor": "Run",
+    "Database Script.Carga_Itens_Notas_05.sql.executor": "Run",
+    "Database Script.Carga_Itens_Notas_07.sql.executor": "Run",
+    "Database Script.Carga_Notas_01.sql.executor": "Run",
+    "Database Script.Carga_Notas_02.sql.executor": "Run",
+    "Database Script.Carga_Notas_03.sql.executor": "Run",
+    "Database Script._5_filtrando_consultas_agrupadas.sql.executor": "Run",
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/vinic/OneDrive/Área de Trabalho/sql-start/sql-start/mysql/alura-mysql/5-mysql-trigger/database-aula",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "service.view.auto.scroll.to.source": "true",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql",
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9",
+      "2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9/schema/\"sucos_vendas\""
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "MySQL",
+      "PostgreSQL"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vinic\OneDrive\Área de Trabalho\sql-start\sql-start\mysql\fatec-mysql\db_normalizacao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vinic\OneDrive\Área de Trabalho\sql-start\sql-start\postgres\_1_sintaxe-basica" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.Carga_Itens_Notas_07.sql">
+    <configuration name="Carga_Itens_Notas_03.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/database-aula/Carga_Itens_Notas_03.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9" namespace="schema/&quot;sucos_vendas&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Carga_Itens_Notas_04.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/database-aula/Carga_Itens_Notas_04.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9" namespace="schema/&quot;sucos_vendas&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Carga_Itens_Notas_05.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/database-aula/Carga_Itens_Notas_05.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9" namespace="schema/&quot;sucos_vendas&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Carga_Itens_Notas_06.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/database-aula/Carga_Itens_Notas_06.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9" namespace="schema/&quot;sucos_vendas&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Carga_Itens_Notas_07.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/database-aula/Carga_Itens_Notas_07.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2b54efb3-d6f6-484f-b7bc-1f9a5ccbc0f9" namespace="schema/&quot;sucos_vendas&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_3_ordenando_consultas.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/_1_sintaxe-basica/_3_ordenando_consultas.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.Carga_Itens_Notas_07.sql" />
+        <item itemvalue="Database Script.Carga_Itens_Notas_06.sql" />
+        <item itemvalue="Database Script.Carga_Itens_Notas_05.sql" />
+        <item itemvalue="Database Script.Carga_Itens_Notas_04.sql" />
+        <item itemvalue="Database Script.Carga_Itens_Notas_03.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-985749b364ce-JavaScript-WS-233.14015.89" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="378bb019-7c84-46b0-8a21-d97ab78c8fd1" name="Changes" comment="" />
+      <created>1707493269341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707493269341</updated>
+      <workItem from="1707493270369" duration="3978000" />
+      <workItem from="1707497277154" duration="1650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="PostgreSQL: Views, Sub-Consultas e Funções" />
+    <MESSAGE value="criação de funções em postgreSQL" />
+    <MESSAGE value="PL/pgSQL - Trigger and Functions" />
+    <MESSAGE value="MySQL - Trigger and Functions" />
+    <MESSAGE value="MySQL - Cursores" />
+    <option name="LAST_COMMIT_MESSAGE" value="MySQL - Cursores" />
+  </component>
+</project>

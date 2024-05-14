@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../../challange-library/challange.library.api/db_library_api.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/trigger-1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/alura-mysql/5-mysql-trigger/trigger-2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/alura-mysql/8-mysql-praticando/_1_stored_procedures_functions_and_triggers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_locadora_veiculos/db_locadora.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_locadora_veiculos/locadora.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_normalizacao/_1_1FN.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_normalizacao/_1_2FN.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_normalizacao/_1_3FN.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_normalizacao/_1_3FNBC.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_normalizacao/_1_4FN.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../mysql/fatec-mysql/db_normalizacao/_1_5FN.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/_1_sintaxe-basica/_1_criando_bd.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/_1_sintaxe-basica/_5_filtrando_consultas_agrupadas.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/_4_functions/_4_PLpgSQL.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/eat_eating/db_eat_eating_api.sql" dialect="PostgreSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
+  </component>
+</project>
